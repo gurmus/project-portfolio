@@ -1,0 +1,27 @@
+
+
+
+.body{
+background-color: antiquewhite;
+}
+
+
+
+
+.contact_header{
+    padding-top: 16px;
+}
+
+
+.form-row{
+   width: 50%; 
+  align-items: center;
+  
+
+}
+
+.col{
+    
+    box-sizing: 25%;
+    
+}
