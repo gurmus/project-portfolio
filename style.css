@@ -1,6 +1,16 @@
 
+.navbar_container{
+    
+}
 
-
+.navbar-brand{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bolder;
+   font-style: oblique;
+   font-size: xx-large;
+  
+}
 .body{
 background-color: antiquewhite;
 }
@@ -22,6 +32,17 @@ background-color: antiquewhite;
 
 .col{
     
-    box-sizing: 25%;
+    /* box-sizing: 25%; */
+
     
+}
+.text-about p{
+    
+}
+
+h2{
+   font-style: oblique; 
+}
+.nav-link{
+    font-size: large;
 }
